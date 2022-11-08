@@ -1,4 +1,4 @@
-# Product Shopping List Linux Application
+# Commodity Purchase Management Application
 ## Environment
 Language: C++
 Environment: Linux/Shell
